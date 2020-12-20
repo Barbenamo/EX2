@@ -1,2 +1,3 @@
-# EX2
-OOP EX2
+# Object Oriented Programming: assigment 2:
+
+
