@@ -19,4 +19,5 @@ here are the classes of this data structure:
 | DWGraph_Algo | a data structure based on the DWGraph_DS structrue that offers variuos algorithms |
 
 a display of each class and its variables:
-##### ![] https://github.com/Barbenamo/EX2/blob/main/dataStructureInfo.png "data structure"
+##### ![dataStructureInfo](https://user-images.githubusercontent.com/74831687/102719728-54628f00-42f8-11eb-924a-17a46520431a.png)
+
